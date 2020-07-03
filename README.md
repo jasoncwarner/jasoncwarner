@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **jasoncwarner/jasoncwarner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-## Feel free to drop me a question in my [AMA](https://github.com/jasoncwarner/ama) 
+#### Feel free to drop me a question in my [AMA](https://github.com/jasoncwarner/ama) 
