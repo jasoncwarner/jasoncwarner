@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Feel free to drop me a question in my [AMA](https://github.com/jasoncwarner/ama) 
